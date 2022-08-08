@@ -6,6 +6,8 @@
 
 Welcome to my budget-tracker. The challengewas to update an existing budget tracker application to allow for offline access and functionality by utilizing Progressive Web Application (PWA) features!
 
+Checkout deployed application: 
+
 
 ## Table of Contents
 
